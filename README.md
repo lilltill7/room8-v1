@@ -4,7 +4,14 @@
 
 > Built in 2025 as a class project prototype. **I designed and built the entire user interface.**
 
-<!-- Screenshot: add a clean screenshot of the landing page here, e.g. ![Room8 landing page](screenshot.png) -->
+<p align="center">
+<img src="screenshots/home.jpg" width="100%" alt="Room8 landing page: Match. Connect. Thrive. with a pink Start Matching button"/>
+</p>
+
+<p align="center">
+<img src="screenshots/match.jpg" width="100%" alt="Find Your Perfect Room8 questionnaire with living preferences, social dynamics, and practical matters"/>
+<br/><sub>Landing page and the "Find Your Perfect Room8" matching questionnaire</sub>
+</p>
 
 ## What I built
 
