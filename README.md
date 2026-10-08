@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="screenshots/demo.gif" width="100%" alt="Scrolling through the Room8 landing page: hero, mission, how it works, and the animated bubble matching"/>
-<br/><sub>Scrolling the landing page: watch the bubbles find your perfect match ✓</sub>
+<br/><sub>My first attempt at a website! Scroll the landing page and watch the bubbles find your perfect match ✓</sub>
 </p>
 
 <p align="center">
